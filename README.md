@@ -5,8 +5,15 @@ This repository implements the Barycentric kernel. Also, this repository include
 You can cite this paper with the Bibtex below.
 
 ```bibtex
-@article{kim2023barycentric
-NOT YET PUBLISHED
+@article{kim2023barycentric,
+  title={Barycentric Kernel for Bayesian Optimization of Chemical Mixture},
+  author={Kim, San and Kim, Jaekwang},
+  journal={Electronics},
+  volume={12},
+  number={9},
+  pages={2076},
+  year={2023},
+  publisher={MDPI}
 }
 ```
 
